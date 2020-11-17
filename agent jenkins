@@ -1,0 +1,3 @@
+agent --
+
+java -jar agent.jar -jnlpUrl http://localhost:8080/computer/slave/slave-agent.jnlp -secret f13be80c6666673f1c6d1693d81412927b4826405002c8fa9ed06631783a1b0f -workDir "/home/edureka"
